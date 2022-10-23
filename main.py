@@ -1,8 +1,6 @@
-from pydoc import text
+
 import tkinter
 from tkinter import *
-from tokenize import Double
-from turtle import clear
 
 root=Tk();
 root.title("Számológép");
